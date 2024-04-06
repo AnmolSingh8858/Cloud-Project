@@ -11,3 +11,6 @@
 <img width="780" alt="AnmolVnet2" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/d8edbfc1-7669-4dd1-9694-9e6311a355de">
 
 <img width="454" alt="EMPLOYEE" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/8928547f-5ee0-4d06-b4d0-76bd7849f1be">
+
+<img width="618" alt="ROLES" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/f06306a5-59c3-44a9-812f-53af25adc957">
+
