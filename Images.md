@@ -14,3 +14,5 @@
 
 <img width="618" alt="ROLES" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/f06306a5-59c3-44a9-812f-53af25adc957">
 
+<img width="678" alt="ROLES2" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/d2bf597a-782a-49f8-a1ae-1dbba9ee9c9f">
+
