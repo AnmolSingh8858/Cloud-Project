@@ -6,3 +6,4 @@
 
 <img width="470" alt="Anmol-VM2" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/3c1f352c-78fc-440c-8893-b12d816bb14e">
 
+<img width="781" alt="AnmolVnet1" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/ef73f05f-3d11-4138-b253-965bad1a5a20">
