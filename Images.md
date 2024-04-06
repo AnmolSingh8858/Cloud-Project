@@ -9,3 +9,5 @@
 <img width="781" alt="AnmolVnet1" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/ef73f05f-3d11-4138-b253-965bad1a5a20">
 
 <img width="780" alt="AnmolVnet2" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/d8edbfc1-7669-4dd1-9694-9e6311a355de">
+
+<img width="454" alt="EMPLOYEE" src="https://github.com/AnmolSingh8858/Cloud-Project/assets/166207079/8928547f-5ee0-4d06-b4d0-76bd7849f1be">
